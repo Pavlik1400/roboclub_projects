@@ -1,0 +1,10 @@
+main.c:119:10:move_in_direction	56	static
+main.c:78:5:main	16	static
+main.c:141:10:move_on_degree	40	static
+main.c:168:6:SystemClock_Config	112	static
+main.c:220:13:MX_I2C1_Init	8	static
+main.c:254:13:MX_I2S2_Init	8	static
+main.c:288:13:MX_I2S3_Init	8	static
+main.c:322:13:MX_SPI1_Init	8	static
+main.c:360:13:MX_GPIO_Init	56	static
+main.c:439:6:Error_Handler	4	static
