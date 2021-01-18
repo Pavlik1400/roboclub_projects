@@ -1,0 +1,3 @@
+/home/pasha/STMProjects/double_click/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pasha/STMProjects/double_click/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pasha/STMProjects/double_click/cmake-build-debug/CMakeFiles/double_click.elf.dir
